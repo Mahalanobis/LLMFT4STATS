@@ -4,7 +4,8 @@ Fine Tuning small LLM (using a statistical approach)
 
 
 
-
+## Input Dataset (from HuggingFaces)
+https://huggingface.co/datasets/boltuix/emotions-dataset
 
 
 ## Hardware
